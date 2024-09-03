@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: gson-2.8.9.jar
+Main-Class: com.rramirezsoft.wildquest.main.Main
+Created-By: Maven Integration for Eclipse
+
