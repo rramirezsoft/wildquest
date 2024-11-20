@@ -35,3 +35,7 @@ target/
 # Other files
 *.dat
 dependency-reduced-pom.xml
+
+# Game save files
+config.txt
+save.dat
