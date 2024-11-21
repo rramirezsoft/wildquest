@@ -13,6 +13,7 @@ Este proyecto está desarrollado utilizando Java y Maven, por lo que necesitará
 - [Galería de Imágenes](#galería-de-imágenes)
 - [Opción alternativa - Descargar desde el sitio web](#opción-alternativa---descargar-desde-el-sitio-web)
 - [Agradecimientos](#agradecimientos)
+- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ---
@@ -118,6 +119,15 @@ Si tienes alguna sugerencia o encuentras un error, no dudes en abrir un issue o 
 
 ---
 
+## Licencia
+
+Este proyecto está licenciado bajo la **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+Puedes copiar, distribuir y adaptar el contenido, siempre que se otorgue el crédito adecuado y no se utilice con fines comerciales.
+
+Para más detalles sobre la licencia, consulta el archivo [`LICENSE`](./LICENSE) o visita:  
+[https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+--- 
 ## Contacto
 
 - GitHub: https://github.com/rramirezsoft
