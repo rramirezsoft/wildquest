@@ -62,9 +62,6 @@ public class EventHandler {
 			if(hit(4, 10, 18, "left")) {teleport(0, 39, 12, gp.outside);}
 			else if(hit(0, 39, 12, "right")) {teleport(4, 10, 18, gp.village);}
 
-			//pruebas
-			else if(hit(0, 11, 40, "right")) {teleport(4, 24, 34, gp.village);}
-
 			//del bosque al laberinto
 			else if(hit(0, 10, 6, "up")) {teleport(5, 17, 43, gp.outside);}
 			else if(hit(5, 17, 43, "down")) {teleport(0, 10, 6, gp.outside);}

@@ -29,24 +29,4 @@ public class NPC_1 extends NPC{
 		right1 = setup("/npc/npc1_right_1", gp.tileSize, gp.tileSize);
 		right2 = setup("/npc/npc1_right_2", gp.tileSize, gp.tileSize);
 	}
-
-	@Override
-	public void speak() {
-		super.speak();
-		onPath = true;
-	}
-
-	@Override
-	public void setAction() {
-
-		if(onPath == true) {
-			int goalCol= (gp.player.worldX + gp.player.solidArea.x)/gp.tileSize;
-			int goalRow= (gp.player.worldY + gp.player.solidArea.y)/gp.tileSize;
-
-			searchPath(goalCol,goalRow);
-		} else {
-			super.setAction();
-		}
-	}
-
 }

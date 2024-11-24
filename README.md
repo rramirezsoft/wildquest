@@ -70,34 +70,34 @@ Si todo está correctamente configurado, el juego debería iniciarse y podrás c
 A continuación, se muestran algunas imágenes del juego WildQuest:
 
 ### Pantalla de inicio
-![Pantalla de inicio](image_gallery/titulo.png)
+![Pantalla de inicio](src/main/resources/image_gallery/titulo.png)
 
 ### Diálogo inicial
-![Dialogo inicial](image_gallery/dialogo.png)
+![Dialogo inicial](src/main/resources/image_gallery/dialogo.png)
 
 ### Batalla en el  Bosque Eldoria
-![Batalla en el bosque](image_gallery/lucha_orco.png)
+![Batalla en el bosque](src/main/resources/image_gallery/lucha_orco.png)
 
 ### Pueblo Veridia
-![Veridia](image_gallery/pueblo.png)
+![Veridia](src/main/resources/image_gallery/pueblo.png)
 
 ### Interior de casas
-![Interior cabaña](image_gallery/interior.png)
+![Interior cabaña](src/main/resources/image_gallery/interior.png)
 
 ### Iventario del jugador
-![Inventario](image_gallery/inventario.png)
+![Inventario](src/main/resources/image_gallery/inventario.png)
 
 ### Tradeo en el pueblo
-![Tradeo](image_gallery/tradeo.png)
+![Tradeo](src/main/resources/image_gallery/tradeo.png)
 
 ### Envenenamiento por setas
-![Envenenamiento](image_gallery/setas.png)
+![Envenenamiento](src/main/resources/image_gallery/setas.png)
 
 ### Lucha contra el jefe del bosque Eldoria
-![Boss Eldoria](image_gallery/boss.png)
+![Boss Eldoria](src/main/resources/image_gallery/boss.png)
 
 ### Exploración de mazmorras
-![Mazmorra](image_gallery/cueva.png)
+![Mazmorra](src/main/resources/image_gallery/cueva.png)
 
 ---
 

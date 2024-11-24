@@ -130,7 +130,7 @@ public class Player extends Entity {
 		inventory.clear();
 		inventory.add(currentWeapon);
 		inventory.add(currentShield);
-		inventory.add(new OBJ_Pickaxe(gp));
+		// 		inventory.add(new OBJ_Pickaxe(gp));
 		//		inventory.add(new OBJ_Axe(gp));
 		//		inventory.add(new OBJ_Shield_Blue(gp));
 		//		inventory.add(new OBJ_WaterBottle(gp));
@@ -138,17 +138,17 @@ public class Player extends Entity {
 		//		inventory.add(new OBJ_Carrot(gp));
 		//		inventory.add(new OBJ_Tent(gp));
 		//		inventory.add(new OBJ_Chilli(gp));
-		inventory.add(new OBJ_Mjolnir(gp));
+		//		inventory.add(new OBJ_Mjolnir(gp));
 		//		inventory.add(new OBJ_Chocolate(gp));
 		//		inventory.add(new OBJ_Pill(gp));
 		//		inventory.add(new OBJ_Leaf(gp));
-		inventory.add(new OBJ_Shield_Captain_America(gp));
+		//		inventory.add(new OBJ_Shield_Captain_America(gp));
 		//		inventory.add(new OBJ_Sword_Gold(gp));
 		//		inventory.add(new OBJ_BoxingGloves(gp));
 		//		inventory.add(new OBJ_Bow(gp));
 		//		inventory.add(new OBJ_Arrow(gp));
-		inventory.add(new OBJ_Map(gp));
-		inventory.add(new OBJ_Lantern(gp));
+		//		inventory.add(new OBJ_Map(gp));
+		//		inventory.add(new OBJ_Lantern(gp));
 
 	}
 
